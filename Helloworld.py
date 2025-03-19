@@ -3,7 +3,7 @@
 # This file produce some printing
 
 print("Hello world")
-#Coucou
+#Coucou c'est moi 
 # instruction de commit en ligne 
 # We introduce some interaction with the user
 
