@@ -4,7 +4,7 @@
 
 print("Hello world")
 
-
+# instruction de commit en ligne 
 # We introduce some interaction with the user
 
 name = input("What's your name?")
